@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dimmweb/static/css/main.2f2a6831.css",
-    "main.js": "/dimmweb/static/js/main.21c3eebc.js",
-    "static/js/453.f6c654be.chunk.js": "/dimmweb/static/js/453.f6c654be.chunk.js",
-    "static/media/Logo2.png": "/dimmweb/static/media/Logo2.01e9c80586d443248c55.png",
-    "static/media/Logo1.png": "/dimmweb/static/media/Logo1.9dccc793cac52ebbbbfe.png",
-    "static/media/tecnico-almendras.jpg": "/dimmweb/static/media/tecnico-almendras.004804aafa2262990f47.jpg",
-    "static/media/doctor-bowles.jpg": "/dimmweb/static/media/doctor-bowles.abc8bf4cea61b6db2632.jpg",
-    "static/media/83_n.jpg": "/dimmweb/static/media/83_n.392b3a07e3a302dee91c.jpg",
-    "static/media/53_n.jpg": "/dimmweb/static/media/53_n.d81dcdcdaa0a37359180.jpg",
-    "static/media/27_n.jpg": "/dimmweb/static/media/27_n.0a950e0ad5652924d33a.jpg",
-    "static/media/23_n.jpg": "/dimmweb/static/media/23_n.c24c1e4b1d857a402323.jpg",
-    "static/media/12_n.jpg": "/dimmweb/static/media/12_n.3ecdef7c981b1bcbfa74.jpg",
-    "static/media/82_n.jpg": "/dimmweb/static/media/82_n.2ad94742dd3fa24174a0.jpg",
-    "index.html": "/dimmweb/index.html",
-    "main.2f2a6831.css.map": "/dimmweb/static/css/main.2f2a6831.css.map",
-    "main.21c3eebc.js.map": "/dimmweb/static/js/main.21c3eebc.js.map",
-    "453.f6c654be.chunk.js.map": "/dimmweb/static/js/453.f6c654be.chunk.js.map"
+    "main.css": "/clinica-dimm/static/css/main.ca373d32.css",
+    "main.js": "/clinica-dimm/static/js/main.f288a9a7.js",
+    "static/js/453.f6c654be.chunk.js": "/clinica-dimm/static/js/453.f6c654be.chunk.js",
+    "static/media/Logo2.png": "/clinica-dimm/static/media/Logo2.01e9c80586d443248c55.png",
+    "static/media/Logo1.png": "/clinica-dimm/static/media/Logo1.9dccc793cac52ebbbbfe.png",
+    "static/media/tecnico-almendras.jpg": "/clinica-dimm/static/media/tecnico-almendras.004804aafa2262990f47.jpg",
+    "static/media/doctor-bowles.jpg": "/clinica-dimm/static/media/doctor-bowles.abc8bf4cea61b6db2632.jpg",
+    "static/media/83_n.jpg": "/clinica-dimm/static/media/83_n.392b3a07e3a302dee91c.jpg",
+    "static/media/53_n.jpg": "/clinica-dimm/static/media/53_n.d81dcdcdaa0a37359180.jpg",
+    "static/media/27_n.jpg": "/clinica-dimm/static/media/27_n.0a950e0ad5652924d33a.jpg",
+    "static/media/23_n.jpg": "/clinica-dimm/static/media/23_n.c24c1e4b1d857a402323.jpg",
+    "static/media/12_n.jpg": "/clinica-dimm/static/media/12_n.3ecdef7c981b1bcbfa74.jpg",
+    "static/media/82_n.jpg": "/clinica-dimm/static/media/82_n.2ad94742dd3fa24174a0.jpg",
+    "index.html": "/clinica-dimm/index.html",
+    "main.ca373d32.css.map": "/clinica-dimm/static/css/main.ca373d32.css.map",
+    "main.f288a9a7.js.map": "/clinica-dimm/static/js/main.f288a9a7.js.map",
+    "453.f6c654be.chunk.js.map": "/clinica-dimm/static/js/453.f6c654be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f2a6831.css",
-    "static/js/main.21c3eebc.js"
+    "static/css/main.ca373d32.css",
+    "static/js/main.f288a9a7.js"
   ]
 }
