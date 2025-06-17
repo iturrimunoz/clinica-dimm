@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clinica-dimm/static/css/main.cb773faf.css",
-    "main.js": "/clinica-dimm/static/js/main.451f5bb7.js",
+    "main.css": "/clinica-dimm/static/css/main.0d7abb99.css",
+    "main.js": "/clinica-dimm/static/js/main.d295674d.js",
     "reactPlayerYouTube.js": "/clinica-dimm/static/js/reactPlayerYouTube.f11cfec6.chunk.js",
     "reactPlayerSoundCloud.js": "/clinica-dimm/static/js/reactPlayerSoundCloud.8b98dc58.chunk.js",
     "reactPlayerVimeo.js": "/clinica-dimm/static/js/reactPlayerVimeo.234b5e33.chunk.js",
@@ -21,8 +21,8 @@
     "static/media/tecnico-almendras.jpg": "/clinica-dimm/static/media/tecnico-almendras.004804aafa2262990f47.jpg",
     "static/media/doctor-bowles.jpg": "/clinica-dimm/static/media/doctor-bowles.abc8bf4cea61b6db2632.jpg",
     "index.html": "/clinica-dimm/index.html",
-    "main.cb773faf.css.map": "/clinica-dimm/static/css/main.cb773faf.css.map",
-    "main.451f5bb7.js.map": "/clinica-dimm/static/js/main.451f5bb7.js.map",
+    "main.0d7abb99.css.map": "/clinica-dimm/static/css/main.0d7abb99.css.map",
+    "main.d295674d.js.map": "/clinica-dimm/static/js/main.d295674d.js.map",
     "reactPlayerYouTube.f11cfec6.chunk.js.map": "/clinica-dimm/static/js/reactPlayerYouTube.f11cfec6.chunk.js.map",
     "reactPlayerSoundCloud.8b98dc58.chunk.js.map": "/clinica-dimm/static/js/reactPlayerSoundCloud.8b98dc58.chunk.js.map",
     "reactPlayerVimeo.234b5e33.chunk.js.map": "/clinica-dimm/static/js/reactPlayerVimeo.234b5e33.chunk.js.map",
@@ -40,7 +40,7 @@
     "453.48a5fdcc.chunk.js.map": "/clinica-dimm/static/js/453.48a5fdcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb773faf.css",
-    "static/js/main.451f5bb7.js"
+    "static/css/main.0d7abb99.css",
+    "static/js/main.d295674d.js"
   ]
 }
